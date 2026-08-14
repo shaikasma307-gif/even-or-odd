@@ -1,0 +1,21 @@
+```text
+Time    Number  Even    Odd
+-----------------------------
+10      0       1       0
+20      3       0       1
+30      4       1       0
+40      7       0       1
+50      10      1       0
+60      15      0       1
+```
+
+### Result
+
+* `0` → Even
+* `3` → Odd
+* `4` → Even
+* `7` → Odd
+* `10` → Even
+* `15` → Odd
+
+The design correctly identifies whether the input number is even or odd.
